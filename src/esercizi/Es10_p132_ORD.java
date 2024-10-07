@@ -3,7 +3,7 @@ package esercizi;
 import java.util.Scanner;
 /*
  * Scrivi un programma che legge quattro numeri da tastiera e li visualizza in ordine decrescente.
- * fhhjf
+ * 
  * */
 
 public class Es10_p132_ORD {//Verisione con ORDINAMENTO
